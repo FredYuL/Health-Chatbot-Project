@@ -29,8 +29,6 @@ This project is an AI health intelligent assistant based on natural language pro
 
 3. Download and prepare data: 
 
-    Place the **`food_nutrition.csv`** file in the **`data/`** directory.
-
 ### Data Sources
 
 1. Spoonacular API: For meal and nutrition data.
