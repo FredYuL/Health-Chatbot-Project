@@ -33,17 +33,17 @@ This project is an AI health intelligent assistant based on natural language pro
 
 1. Spoonacular API: For meal and nutrition data.
 
-Official Website : https://spoonacular.com/food-api
+  Official Website : https://spoonacular.com/food-api
 
 2. Fitbit API: For exercise and health data.
 
-Developer Documentation: https://dev.fitbit.com/build/reference/web-api/
+  Developer Documentation: https://dev.fitbit.com/build/reference/web-api/
 
 3. NLTK (Natural Language Toolkit): For initial text processing tasks.
 
-NLTK Project Site : https://www.nltk.org/
+  NLTK Project Site : https://www.nltk.org/
 
 4. OpenAI API: For advanced NLP tasks like intent detection and conversation management.
 
-OpenAI API Documentation: https://platform.openai.com/docs/api-reference
+  OpenAI API Documentation: https://platform.openai.com/docs/api-reference
 
