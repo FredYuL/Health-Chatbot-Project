@@ -19,8 +19,8 @@ This project is an AI health intelligent assistant based on natural language pro
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/yourusername/AI-Health-Assistant.git
-   cd AI-Health-Assistant
+   git clone https://github.com/FredYuL/Health-Chatbot-Project.git
+   cd Health-Chatbot-Project
 
 2. Install Dependencies: 
 
@@ -29,4 +29,4 @@ This project is an AI health intelligent assistant based on natural language pro
 
 3. Download and prepare data: 
 
-    Place the food_nutrition.csv file in the data/ directory.
+    Place the **`food_nutrition.csv`** file in the **`data/`** directory.
